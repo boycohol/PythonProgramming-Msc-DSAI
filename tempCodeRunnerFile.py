@@ -1,0 +1,1 @@
+library.is_perfect_square(6.6)
